@@ -1,0 +1,18 @@
+{
+  "name": "reunionesmobappdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "reunionesmobserver": "json-server --watch reunionesmobappdb.json"
+  },
+  "keywords": [],
+  "author": "reunionesmobapp",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  },
+  "engines":{
+    "node":"16.14.0"
+  }
+}
